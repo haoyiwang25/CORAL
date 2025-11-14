@@ -1,0 +1,14 @@
+batchgenerators
+numpy
+pandas
+Pillow
+tensorboard
+torch
+torchvision
+opencv-python
+SimpleITK
+scikit-image
+matplotlib
+scikit-learn
+scipy
+
