@@ -53,18 +53,16 @@ python train_contrast.py --batch_size 32 --epochs 300 \
 ### 2. Supervised Fine-tuning
 
 After pre-training, use `train_supervised.py` for supervised fine-tuning with limited labeled data.
-<!-- 
+
 ## Citation
 
-If you use this code, please cite the original paper and acknowledge the base repository:
+If you find this work useful, please cite the our paper:
 
 ```bibtex
-@inproceedings{zeng2021positional,
-  title={Positional contrastive learning for volumetric medical image segmentation},
-  author={Zeng, Dewen and Wu, Yawen and Hu, Xinrong and Xu, Xiaowei and Yuan, Haiyun and Huang, Meiping and Zhuang, Jian and Hu, Jingtong and Shi, Yiyu},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={221--230},
-  year={2021},
-  organization={Springer}
+@article{wang2025coordinative,
+  title={Coordinative Learning with Ordinal and Relational Priors for Volumetric Medical Image Segmentation},
+  author={Wang, Haoyi},
+  journal={arXiv preprint arXiv:2511.11276},
+  year={2025}
 }
-``` -->
+```
