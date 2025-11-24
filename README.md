@@ -56,7 +56,7 @@ After pre-training, use `train_supervised.py` for supervised fine-tuning with li
 
 ## Citation
 
-If you find this work useful, please cite the our paper:
+If you find this work useful, please consider citing our paper:
 
 ```bibtex
 @article{wang2025coordinative,
